@@ -22,7 +22,7 @@
 
 ## 关于项目地址更换问题
 
-由于维护 ISO-IEC-Docs 的 GitHub 账户 [github201014](https://github.com/github201014) 因恢复密钥泄露无法访问，本人新建账号 [Anonymous220623](https://github.com/Anonymous220623) 并在此账户上重新设立项目，并保证今后不会有项目地址迁移或与账户相关的问题。
+由于维护 [ISO-IEC-Docs](https://github.com/ISO-IEC-Docs) 的 GitHub 账户 [github201014](https://github.com/github201014) 因恢复密钥泄露无法访问，本人新建账号 [Anonymous220623](https://github.com/Anonymous220623) 并在此账户上重新设立项目，并保证今后不会有项目地址迁移或与账户相关的问题。
 
 ## 文档来源
 
